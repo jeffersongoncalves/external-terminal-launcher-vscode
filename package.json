@@ -7,12 +7,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeffersongoncalves/external-terminal-launcher.git"
+    "url": "https://github.com/jeffersongoncalves/external-terminal-launcher-vscode.git"
   },
   "bugs": {
-    "url": "https://github.com/jeffersongoncalves/external-terminal-launcher/issues"
+    "url": "https://github.com/jeffersongoncalves/external-terminal-launcher-vscode/issues"
   },
-  "homepage": "https://github.com/jeffersongoncalves/external-terminal-launcher#readme",
+  "homepage": "https://github.com/jeffersongoncalves/external-terminal-launcher-vscode#readme",
   "icon": "resources/icon.png",
   "keywords": [
     "terminal",
